@@ -1,6 +1,6 @@
 # StoveDetector SMS opt-in proof
 
-Public evidence for toll-free SMS verification of **+1 (833) 579-8080**.
+Public evidence for toll-free SMS verification of **+1 (833) 892-4275** (previously +1 (833) 579-8080 at another carrier).
 
 ## Feature status
 
