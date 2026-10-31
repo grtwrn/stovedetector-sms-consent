@@ -18,7 +18,7 @@ Delivery requires an internet connection from the device and a reachable phone. 
 
 ## Phone alert privacy
 
-StoveDetector stores your verified phone number, alert preferences, consent version and dates, and delivery records to provide the alerts you request. Phone numbers and alert content are sent to our delivery provider, Twilio, so it can send the text or place the call.
+StoveDetector stores your verified phone number, alert preferences, consent version and dates, and delivery records to provide the alerts you request. Phone numbers and alert content are sent to our delivery provider, Telnyx, so it can send the text or place the call.
 
 Phone numbers and messaging consent are not sold or shared for third-party marketing. Your phone number is visible in your own account settings and is not shown to other household members.
 
